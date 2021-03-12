@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1615584803 source:c:\users\usuario\downloads\orcado.cpp\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+	"color.h"
+	"cuadro.h"
+	"prototipos.h"
+	"funciones.h"
+
+1615516706 c:\users\usuario\downloads\orcado.cpp\gotoxy.h
+
+1615516542 c:\users\usuario\downloads\orcado.cpp\color.h
+
+1615516415 c:\users\usuario\downloads\orcado.cpp\cuadro.h
+
+1615584481 c:\users\usuario\downloads\orcado.cpp\prototipos.h
+
+1615584918 c:\users\usuario\downloads\orcado.cpp\funciones.h
+
